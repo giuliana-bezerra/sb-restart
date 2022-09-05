@@ -65,8 +65,8 @@ public class BatchConfig {
   public ItemProcessor<String, String> processor() {
     return item -> {
       // Adiciona erro!
-      // if (item.equals("51"))
-      // throw new RuntimeException("Deu erro!");
+      if (item.equals("51"))
+        throw new RuntimeException("Deu erro!");
 
       return item;
     };

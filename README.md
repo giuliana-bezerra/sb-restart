@@ -8,7 +8,7 @@ O projeto possui um job que lê uma lista de um a 100 e imprime os valores lidos
 - [ ] [Execução do batch com sucesso](https://github.com/giuliana-bezerra/sb-restart/tree/v1.0)
 - [ ] Execução do batch com erro
 - [ ] [Habilitar restart](https://github.com/giuliana-bezerra/sb-restart/tree/v2.0)
-- [ ] [Restart para batch com parâmetros](https://github.com/giuliana-bezerra/sb-restart/tree/v3.0)
+- [ ] Restart para batch com parâmetros
 
 ## Referências
 
